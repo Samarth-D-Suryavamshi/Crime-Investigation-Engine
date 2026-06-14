@@ -367,7 +367,7 @@ LinkedIn: https://www.linkedin.com/in/samarth-suryavamshi-a15642298/
 
 Sanmati Payappa Topannavar
 
-GitHub: 
+GitHub: https://www.github.com/sanmati2005
 
 LinkedIn: https://www.linkedin.com/in/sanmati-payappa-topannavar-86a30b327/
 
