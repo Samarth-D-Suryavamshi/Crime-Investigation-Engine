@@ -357,25 +357,13 @@ License selection will be finalized upon project completion.
 
 ---
 
-## Author
+## Contributors
 
-Samarth D Suryavamshi
-
-Github: https://github.com/Samarth-D-Suryavamshi
-
-LinkedIn: https://www.linkedin.com/in/samarth-suryavamshi-a15642298/
-
-Sanmati Payappa Topannavar
-
-GitHub: https://www.github.com/sanmati2005
-
-LinkedIn: https://www.linkedin.com/in/sanmati-payappa-topannavar-86a30b327/
-
-Satyaprakash Paikaray
-
-GitHub: https://github.com/Satyaprakash1235
-
-LinkedIn: linkedin.com/in/satyaprakash-paikaray-033495284
+| Contributor | GitHub | LinkedIn |
+|------------|--------|----------|
+| Samarth D Suryavamshi | [GitHub](https://github.com/Samarth-D-Suryavamshi) | [LinkedIn](https://www.linkedin.com/in/samarth-suryavamshi-a15642298/) |
+| Sanmati Payappa Topannavar | [GitHub](https://github.com/sanmati2005) | [LinkedIn](https://www.linkedin.com/in/sanmati-payappa-topannavar-86a30b327/) |
+| Satyaprakash Paikaray | [GitHub](https://github.com/Satyaprakash1235) | [LinkedIn](https://linkedin.com/in/satyaprakash-paikaray-033495284) |
 
 ---
 
