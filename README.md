@@ -173,6 +173,16 @@ Automated identification of related cases, shared entities, common locations, an
 
 ---
 
+## Key Research Questions
+
+- How can graph analytics improve criminal network discovery?
+- How can geospatial intelligence assist investigative prioritization?
+- What role can LLMs play in evidence retrieval and case correlation?
+- How should intelligence entities be modeled within a knowledge graph?
+- What architectural trade-offs exist between graph databases and relational databases?
+
+---
+
 ## Research Deliverables
 
 ### Domain Research
@@ -254,7 +264,7 @@ Engine Engine Engine
 | Backend                 | Python, FastAPI               |
 | Database                | PostgreSQL, Neo4j             |
 | Geospatial Intelligence | Leaflet, OpenStreetMap, QGIS  |
-| AI & Analytics          | OpenAI, Sentence Transformers |
+| AI & Analytics          | LLM, Sentence Transformers    |
 | Infrastructure          | Docker, Cloud Deployment      |
 
 Final technology selections will be determined during architecture planning.
