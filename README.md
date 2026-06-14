@@ -362,16 +362,19 @@ License selection will be finalized upon project completion.
 Samarth D Suryavamshi
 
 Github: https://github.com/Samarth-D-Suryavamshi
+
 LinkedIn: https://www.linkedin.com/in/samarth-suryavamshi-a15642298/
 
 Sanmati Payappa Topannavar
 
 GitHub: 
+
 LinkedIn: https://www.linkedin.com/in/sanmati-payappa-topannavar-86a30b327/
 
 Satyaprakash Paikaray
 
 GitHub: https://github.com/Satyaprakash1235
+
 LinkedIn: linkedin.com/in/satyaprakash-paikaray-033495284
 
 ---
